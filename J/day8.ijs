@@ -20,3 +20,8 @@ t24 =: 0 2 { >@(/: #@>)
 p2 =: +/ 10 #. (t i. _4&{.   key~  [: t24  10 {. ] )"1 i
 
 p1;p2
+
+NB. 89 byte golfed version to flex on the python golfers lol
++/{{".{{'4725360918'{~11|15|<.-:+/,y}}"_1]0|:(_4&{.e.&:>"_ 0/10{.])y}}"1;:;._2 getin 21 8
+
+
